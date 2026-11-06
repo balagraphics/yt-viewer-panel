@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="72" role="img" aria-label="PowerShell Installer">
+  <defs>
+    <linearGradient id="psb608863" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8957e5"/>
+      <stop offset="100%" stop-color="#6e40c9"/>
+    </linearGradient>
+    <linearGradient id="psb608863h" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="460" height="72" rx="18" fill="url(#psb608863)"/>
+  <rect x="1" y="1" width="458" height="70" rx="17" fill="none" stroke="#a371f7" stroke-opacity="0.45"/>
+  <rect x="1" y="1" width="458" height="34" rx="17" fill="url(#psb608863h)"/>
+  <rect width="101" height="72" rx="18" fill="#6e40c9"/>
+  <rect x="83" y="0" width="20" height="72" fill="#6e40c9"/>
+  <text x="50.5" y="41.0" fill="#ffffff" font-family="Consolas, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">PS</text>
+  <text x="280.5" y="44.4" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" text-anchor="middle">PowerShell Installer</text>
+</svg>
